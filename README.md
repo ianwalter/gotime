@@ -1,5 +1,5 @@
 # gotime
-> A high resolution timer for timing how long commands take to execute
+> A high resolution timer CLI for timing how long commands take to execute
 
 ## Installation
 
