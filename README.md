@@ -24,4 +24,4 @@ Apache 2.0 with Commons Clause - See [LICENSE][licenseUrl]
 
 Created by [Ian Walter](https://iankwalter.com)
 
-[licenseUrl]: https://github.com/ianwalter/dist/blob/master/LICENSE
+[licenseUrl]: https://github.com/ianwalter/gotime/blob/master/LICENSE
